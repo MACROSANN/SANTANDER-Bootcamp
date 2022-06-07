@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SDW 22</string>
+    <string name="txt_welcome">Hello, welcome to Santander dev Week! Enter an Accont Holder ID to view yor bank statement:</string>
+    <string name="txt_continue">Continue</string>
+</resources>
